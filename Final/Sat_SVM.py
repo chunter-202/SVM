@@ -1,6 +1,5 @@
 #####################################################
 #   Taylor Chase Hunter                             #
-#   COSC 425    Project 4                           #
 #                                                   #
 #   This code is an implmentation of an SVM and     #
 #   various kernel methods using SciKit learn.      #
